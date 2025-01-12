@@ -47,8 +47,6 @@
   <include name="snippets/vendor.xml"/>
 
   <!-- XPerience -->
-  <include name="snippets/system.xml" />
-  <include name="snippets/vendor.xml" />
   <include name="snippets/remove.xml" />
   <include name="snippets/lineage.xml" />
   <include name="snippets/xperience.xml" />
