@@ -131,7 +131,7 @@
     <project path="toolchain/pgo-profiles" name="yaap/toolchain_pgo-profiles" remote="github" revision="fifteen" />
 
     <!-- System -->
-    <project path="system/bpf" name="system_bpf" remote="vos" />
+    <project path="system/bpf" name="TheXPerienceProject/android_system_bpf" remote="github" revision="xpe-19.0" />
     <project path="system/core" name="android_system_core" groups="pdk" remote="xpe" />
     <project path="system/extras" name="android_system_extras" groups="pdk" remote="xpe" />
     <project path="system/security" name="android_system_security" groups="pdk" remote="xpe" />
