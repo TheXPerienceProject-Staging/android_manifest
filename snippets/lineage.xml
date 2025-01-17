@@ -61,6 +61,9 @@
     <!--Packages-->
     <project path="packages/apps/Camelot" name="LineageOS/android_packages_apps_Camelot" remote="LineageOS" />
 
+    <!--System-->
+    <project path="system/qcom" name="LineageOS/android_system_qcom" remote="LineageOS" />
+
     <!-- Vendor-->
     <project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" groups="qcom,qssi" remote="LineageOS" />
     <project path="vendor/qcom/opensource/audio-hal/st-hal" name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" groups="qcom,lahaina" remote="LineageOS" />
